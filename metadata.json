@@ -1,0 +1,6 @@
+{
+  "name": "Metro Legends",
+  "description": "3D endless runner and Sketchfab asset integration pipeline for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
